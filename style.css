@@ -1,0 +1,14 @@
+#header, h2{
+    text-align: center;
+    font-size: 48px;
+}
+
+div
+{
+    text-align: center;
+}
+
+.name{
+    height:42px;
+    font-size:24px;
+}
